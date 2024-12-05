@@ -88,5 +88,7 @@
     .footer-logo {
         height:26px;
     }
-    
+    .home3-blog-area .single-blog .blog-content h4 a {
+        font-size: 18px;
+    }
 }
