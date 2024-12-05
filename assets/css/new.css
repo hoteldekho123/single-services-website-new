@@ -1,0 +1,92 @@
+@media (max-width:767px){
+    .home3-partner-area .partner-title h3 {
+        font-size: 28px;
+    }
+    .home4-pricing-plan .pricing-card .pricing-content .pay-btn {
+        padding-top: 30px;
+    }
+    .home4-pricing-plan .pricing-card .pricing-content {
+        padding: 25px;
+    }
+    .home4-pricing-plan .pricing-card .pricing-content ul li {
+        font-size: 14px;
+        padding-block: 17px;
+    }
+    .home4-pricing-plan .pricing-card .pricing-top {
+        padding: 25px;
+    }
+    .home4-pricing-plan .pricing-card .pricing-top h2 {
+        font-size: 50px;
+    }
+    .home4-pricing-plan .pricing-card .pricing-top h2 sub {
+        font-size: 18px;
+    }
+    .section-title-3 h2 {
+        font-size: 28px;
+    }
+    .section-title-3 p {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .mb-55 {
+        margin-bottom: 35px;
+    }
+    footer .footer-widget .menu-container ul li {
+        margin-bottom: 12px;
+    }
+    footer .footer-widget .menu-container ul li a {
+        font-size: 14px;
+    }
+    footer .footer-widget .widget-title h4 {
+        font-size:22px;
+    }
+    footer .footer-btm {
+        margin-top: 50px;
+    }
+    .mb-40 {
+        margin-bottom: 30px !important;
+    }
+    footer .footer-top {
+        margin-bottom: 30px;
+    }
+    footer .footer-top .footer-top-content .footer-contect .content h6 a {
+        font-size: 16px;
+    }
+    footer .footer-widget .footer-contact h4 {
+        font-size: 19px;
+    }
+    footer .footer-widget .footer-contact a {
+        font-size: 14px;
+        line-height: 28px ;
+    }
+    footer .footer-widget .widget-title {
+        margin-bottom: 18px;
+    }
+    .header-area2 .header-logo {
+        width: 145px;
+    }
+    .mobile-logo-wrap a {
+        display: flex;
+        height: 100%;
+    }
+    .mobile-logo-wrap img {
+        height: 100%;
+    }
+    .mobile-logo-wrap {
+        height: 30px;
+    }
+    .header-area2 .main-menu .menu-list {
+        padding-top: 30px;
+    }
+    .footer-logo img {
+        height: 100%;
+    }
+    .footer-logo a {
+        display: flex;
+        height: 100%;
+    }
+    .footer-logo {
+        height:26px;
+    }
+    
+}
