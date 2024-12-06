@@ -1,3 +1,11 @@
+.home3-testimonil-area .author-img {
+    overflow: hidden;
+}
+@media (max-width:991px){
+    .breadcrumbs .breadcrumb-wrapper {
+        padding: 176px 0 110px;
+    }
+}
 @media (max-width:767px){
     .home3-partner-area .partner-title h3 {
         font-size: 28px;
@@ -6,14 +14,14 @@
         padding-top: 30px;
     }
     .home4-pricing-plan .pricing-card .pricing-content {
-        padding: 25px;
+        padding: 18px;
     }
     .home4-pricing-plan .pricing-card .pricing-content ul li {
         font-size: 14px;
         padding-block: 17px;
     }
     .home4-pricing-plan .pricing-card .pricing-top {
-        padding: 25px;
+        padding: 20px;
     }
     .home4-pricing-plan .pricing-card .pricing-top h2 {
         font-size: 50px;
@@ -90,5 +98,44 @@
     }
     .home3-blog-area .single-blog .blog-content h4 a {
         font-size: 18px;
+    }
+    .home4-pricing-plan .pricing-card .pricing-content .pay-btn a {
+        font-size: 15px;
+    }
+    .banner-area3 .banner-wrapper .banner-content p {
+        font-size: 15px;
+        margin-right: 0;
+        margin-bottom: 20px;
+        line-height: 30px;
+    }
+    .banner-area3 .banner-wrapper .banner-content h1 {
+        margin-bottom: 20px;
+    }
+    .section-title-4 h2 {
+        font-size: 28px;
+    }
+    .home3-testimonil-area .testimonial-card3 .testimonial-content p {
+        font-size: 14px;
+        line-height: 28px;
+    }
+    .home3-testimonil-area .testimonial-card3 .testimonial-content {
+        margin-bottom: 18px;
+    }
+    .home3-testimonil-area .testimonial-card3 .testimonial-btm .author-area .author-content h4 {
+        font-size: 19px;
+    }
+    .home3-testimonil-area .testimonial-card3 .testimonial-btm .author-area .author-content span {
+        font-size: 14px;
+    }
+    .breadcrumbs .breadcrumb-wrapper {
+        padding: 117px 0 60px;
+    }
+    .contact-page-wrap .contact-content .informations .single-info .info p {
+        font-size: 14px;
+    }
+}
+@media (max-width:576px){
+    .breadcrumbs .breadcrumb-wrapper {
+        padding: 102px 0 45px;
     }
 }
